@@ -2,7 +2,7 @@
   "name": "akamon-polygon-hardhat",
   "version": "0.1.0",
   "dependencies": {
-    "hardhat": "^2.8.0",
+    "hardhat": "^2.9.3",
     "npx": "10.2.2"
   }
 }
